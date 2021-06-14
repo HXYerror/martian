@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+<mapper namespace="com.hxyac.martian.mapper.ArticleMapper">
+
+    <!--todo 用了*查询，用不到的之后修改-->
+
+
+</mapper>
